@@ -1,8 +1,7 @@
 Behavior-based Fire Alarm Robot
 
-
-Contents
 1	Introduction:	
+
 2	Design:	
 3	New Design	
    3.1	Advantages:	
