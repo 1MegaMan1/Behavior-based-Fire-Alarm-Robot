@@ -14,7 +14,7 @@ Behavior-based Fire Alarm Robot
    
    3.4	How does Robot work?	
    
-      3.4.1	Turning	
+   3.4.1	Turning	
       
    4	Implementation	
    
