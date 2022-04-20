@@ -2,17 +2,28 @@ Behavior-based Fire Alarm Robot
 
 1	Introduction:	
 
-2	Design:	
+2	Design
+
 3	New Design	
-   3.1	Advantages:	
-   3.2	Disadvantages:	
-   3.3	What are some of the difficulties we have faced?	
+
+   3.1	Advantages
+   
+   3.2	Disadvantages
+   
+   3.3	What are some of the difficulties we have faced?
+   
    3.4	How does Robot work?	
+   
       3.4.1	Turning	
+      
    4	Implementation	
-   4.1	Wandering:	
-   4.2	Wall Following:	
-   4.3	Searching:	
+   
+   4.1	Wandering
+   
+   4.2	Wall Following
+   
+   4.3	Searching
+   
    4.4	Extinguish	
 
 
